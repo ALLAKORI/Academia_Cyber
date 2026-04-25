@@ -1,14 +1,17 @@
-# Academia_Cyber
+# Academia Cyber
 
-Writeups and notes for the `Academia_Cyber` competition.
+Writeups and notes from `Academia Cyber`.
+
+This repository contains a mix of challenge writeups and lab progress notes collected during the event.
 
 ## Contents
 
-- [AD105_lab_progress.md](./AD105_lab_progress.md)
-- [MCP_writeup.md](./MCP_writeup.md)
-- [Openclaw_writeup.md](./Openclaw_writeup.md)
-- [Teletype_writeup.md](./Teletype_writeup.md)
+- [AD105 lab progress](./AD105_lab_progress.md)
+- [MCP writeup](./MCP_writeup.md)
+- [Openclaw writeup](./Openclaw_writeup.md)
+- [Teletype writeup](./Teletype_writeup.md)
 
-## Origin
+## Notes
 
-This repository was split out from the archived index repository: [CTF-Writeups](https://github.com/ALLAKORI/CTF-Writeups)
+- The goal of this repository is to keep the material easy to review later for training and interview discussion.
+- The content here was split out from the archived index repository: [CTF-Writeups](https://github.com/ALLAKORI/CTF-Writeups)
